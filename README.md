@@ -22,16 +22,15 @@ Projeyi kendi bilgisayarınızda çalıştırmak için bu adımları takip edebi
 Dosyaları İndirin: Bu repository'yi bilgisayarınıza indirin.
 HTML Dosyasını Açın: index.html dosyasını bir tarayıcıda açarak uygulamayı görüntüleyin.
 Görevlerinizi Ekleyin ve Yönetin: Görevlerinizi ekleyin, silin ve tümünü temizleyin.
-🎨 Görseller
-Uygulama, basit ve temiz bir arayüz sunar. Tüm görseller proje dosyalarında yer almaktadır.
 
 📞 İletişim
 Herhangi bir soru veya öneriniz varsa, bana GitHub üzerinden ulaşabilirsiniz.
 
 <img width="789" alt="Ekran Resmi 2024-08-22 09 39 59" src="https://github.com/user-attachments/assets/89050362-a6a9-49ca-b9b7-8000ddeb99bc">
-<img width="1466" alt="Ekran Resmi 2024-08-22 09 40 27" src="https://github.com/user-attachments/assets/7166414b-1ab8-4aa3-b11f-14e2f38ae29a">
-<img width="724" alt="Ekran Resmi 2024-08-22 09 44 21" src="https://github.com/user-attachments/assets/9cff6ac2-680e-4d51-9f81-16542a3c15fb">
-<img width="1470" alt="Ekran Resmi 2024-08-22 09 40 47" src="https://github.com/user-attachments/assets/5794326e-118f-4219-8efc-3cec931f0ed4">
+<img width="799" alt="Ekran Resmi 2024-08-22 09 40 27" src="https://github.com/user-attachments/assets/e8e2d853-6e98-4eca-8389-a5df8768b630">
+<img width="724" alt="Ekran Resmi 2024-08-22 09 44 21" src="https://github.com/user-attachments/assets/5874d3e7-73c1-4256-ab4b-edd656cfb769">
+<img width="814" alt="Ekran Resmi 2024-08-22 09 40 47" src="https://github.com/user-attachments/assets/20c34a6a-3bef-4227-8763-80c9dd8c1b32">
+
 
 
 
