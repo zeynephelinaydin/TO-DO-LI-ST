@@ -27,3 +27,12 @@ Uygulama, basit ve temiz bir arayüz sunar. Tüm görseller proje dosyalarında 
 
 📞 İletişim
 Herhangi bir soru veya öneriniz varsa, bana GitHub üzerinden ulaşabilirsiniz.
+
+<img width="789" alt="Ekran Resmi 2024-08-22 09 39 59" src="https://github.com/user-attachments/assets/89050362-a6a9-49ca-b9b7-8000ddeb99bc">
+<img width="1466" alt="Ekran Resmi 2024-08-22 09 40 27" src="https://github.com/user-attachments/assets/7166414b-1ab8-4aa3-b11f-14e2f38ae29a">
+<img width="724" alt="Ekran Resmi 2024-08-22 09 44 21" src="https://github.com/user-attachments/assets/9cff6ac2-680e-4d51-9f81-16542a3c15fb">
+<img width="1470" alt="Ekran Resmi 2024-08-22 09 40 47" src="https://github.com/user-attachments/assets/5794326e-118f-4219-8efc-3cec931f0ed4">
+
+
+
+
